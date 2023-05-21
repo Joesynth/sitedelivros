@@ -1,0 +1,26 @@
+header {
+	background-color: lightcyan;
+	color: darkgreen;
+	display: flex;
+}
+nav ul{
+	display: flex;
+	list-style: none;
+}
+li {
+	margin-right: 200px;
+}
+a {
+	text-decoration: none;
+}
+main {
+	background-color: darkgoldenrod;
+	color: lightpink; 
+}
+footer {
+	background-color: black;
+	color: gold;
+	text-align: center;
+	padding: 10px;
+	border: 10px dotted green; 	
+}
